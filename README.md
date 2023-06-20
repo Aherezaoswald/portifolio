@@ -1,4 +1,3 @@
-# Oswald-portifolio
 
 ### Education
 Biology, Hons
