@@ -1,5 +1,5 @@
 title: Ahereza Oswald
 logo: /Desktop/PhotoRoom-20220417_104613.png
-#description: data analyst
-#show_downloads: true 
-theme:jekyll-theme-minima
+description: Data analyst
+show_downloads: true 
+theme: jekyll-theme-minima
