@@ -5,7 +5,10 @@ of the project if available.
 
 ### Business Intelligence dashboard
 ##### Idenfying top drivers of incidents at a manufacturing company
-Utilized Microsoft Excel to **visualize** and identify reported incidents at a manufacturing plant
+Utilized Microsoft Excel to **visualize** and identify reported incidents at a manufacturing plant to help HSE Managers
+with tactical decision making.
 
 ![hse](https://github.com/Aherezaoswald/portifolio/assets/105049639/23856cc5-f8c5-49a4-8f49-bfb79f5de8f6)
+
+This is an interactive dashboard with filters. A click on any filter section filters the whole visuals to that level of interest.
 
