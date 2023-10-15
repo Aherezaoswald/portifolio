@@ -1,6 +1,6 @@
 
 # Hi, I'm Oswald Ahereza
-This is the one stop for my portifolio project. click on the links in each project section to go directly to the code in github repo or view a pdf file
+This is a one stop page for my portifolio projects. click on the links in each project section to go directly to the code in github repos or view a pdf file
 of the project if available.
 
 ### Business Intelligence dashboard
